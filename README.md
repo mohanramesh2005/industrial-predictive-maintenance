@@ -1484,4 +1484,5 @@ For real industrial deployment, predictions should be validated against domain-s
 
 > **The goal is to turn machine sensor data into understandable, explainable, and maintenance-oriented intelligence.**
 #   I n d u s t r i a l - M a c h i n e - F a i l u r e - I n t e l l i g e n c e - S y s t e m  
+ #   I n d u s t r i a l - M a c h i n e - F a i l u r e - I n t e l l i g e n c e - S y s t e m  
  
